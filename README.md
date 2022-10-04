@@ -1,2 +1,2 @@
-# coursera_version_control
-For the Version Control course and Coursera
+# Coursera Version Control
+For the Version Control course on Coursera
